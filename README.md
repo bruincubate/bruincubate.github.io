@@ -1,2 +1,0 @@
-# bruincubate.github.io
-Website
